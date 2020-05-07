@@ -1,0 +1,101 @@
+MEDITATION -*- mode: org -*-
+
+* 2020
+
+** May
+
+*** DONE <2020-05-06 Wed>
+    CLOSED: [2020-05-07 Thu 07:25]
+**** DONE Morning 
+**** TODO Lunch
+**** DONE Night
+
+*** TODO <2020-05-07 Thu>
+**** DONE Morning 
+     CLOSED: [2020-05-07 Thu 07:16]
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-08 Fri>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-09 Sat>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-10 Sun>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-11 Mon>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-12 Tue>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-13 Wed>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-14 Thu>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-15 Fri>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-16 Sat>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-17 Sun>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-18 Mon>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-19 Tue>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-20 Wed>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-21 Thu>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-22 Fri>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-23 Sat>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-24 Sun>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-25 Mon>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-26 Tue>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-27 Wed>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+*** TODO <2020-05-28 Thu>
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
