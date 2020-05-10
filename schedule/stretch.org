@@ -2,4 +2,22 @@
 
 ** May
 *** <2020-05-07 Thu>
+**** DONE Touch Toes
+     CLOSED: [2020-05-07 Thu 15:32]
+**** DONE Knee Wall
+     CLOSED: [2020-05-07 Thu 15:35]
+**** DONE Sit Forward Lean 
+     CLOSED: [2020-05-07 Thu 15:35]
+**** DONE Stand Forward Lean
+     CLOSED: [2020-05-07 Thu 15:37]
+**** DONE Sit Floor Leg Stretch Forward 
+     CLOSED: [2020-05-07 Thu 15:47]
+**** DONE Leg Cabinet Stretch Forward
+     CLOSED: [2020-05-07 Thu 15:57]
+**** DONE Back Leg Towards Chest
+     CLOSED: [2020-05-07 Thu 15:58]
+**** DONE M Pose to Arm Behind Shoulder 
+     CLOSED: [2020-05-07 Thu 16:17]
+**** DONE Hip Rock
+     CLOSED: [2020-05-07 Thu 16:18]
 **** 

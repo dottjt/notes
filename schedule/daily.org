@@ -1,4 +1,28 @@
 * Daily
 
 ** May
-*** <2020-05-07 Thu>
+*** <2020-05-08 Fri>
+**** DONE Visit Morning Websites (Discord, NewsHacker etc.)
+     CLOSED: [2020-05-08 Fri 05:52]
+**** DONE Morning Meditation
+     CLOSED: [2020-05-08 Fri 06:10]
+**** DONE Morning Stretch
+     CLOSED: [2020-05-08 Fri 07:33]
+*** <2020-05-10 Sun>
+**** DONE Learn about emacs and org-mode
+     CLOSED: [2020-05-10 Sun 07:03]
+**** DONE Take Leo for a walk
+     CLOSED: [2020-05-10 Sun 07:03]
+**** TODO Morning Meditation
+**** TODO Figure out how design and materials for studio booth (Get tape measure)
+**** TODO Setup Emacs file for Writer's Daily
+***** TODO Setup Email
+***** TODO Write Topics/Show Ideas
+**** TODO Write Plastic Novel
+**** TODO Play some vidya
+**** TODO Leave house to go to Bunnings
+**** TODO Deadlift workout
+**** TODO
+*** <2020-05-11 Mon>
+**** TODO Setup accounts for The Writer's Daily 
+**** 

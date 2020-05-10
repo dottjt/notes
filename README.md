@@ -11,4 +11,6 @@ I think I've come to recognise the risk of leaving data in proprietery platforms
   - Stretch Routine
   - Workout Routine
 - Notes
-  - Tech 
+  - Tech
+  - Creative
+
