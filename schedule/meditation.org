@@ -1,3 +1,4 @@
+
 MEDITATION -*- mode: org -*-
 
 * 2020
@@ -14,8 +15,35 @@ MEDITATION -*- mode: org -*-
 **** TODO Lunch
 **** DONE Night
      CLOSED: [2020-05-07 Thu 21:03]
-*** TODO <2020-05-08 Fri> Day 27                            :day:27:wakingup:
+*** DONE <2020-05-08 Fri> Day 27                            :day:27:wakingup:
+    CLOSED: [2020-05-12 Tue 06:20]
 **** DONE Morning 
      CLOSED: [2020-05-08 Fri 06:08]
 **** TODO Lunch
 **** TODO Night
+*** DONE <2020-05-09 Sat> Day 27                            :day:28:wakingup:
+    CLOSED: [2020-05-12 Tue 06:19]
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+
+*** DONE <2020-05-10 Sun> Day 27                            :day:29:wakingup:
+    CLOSED: [2020-05-12 Tue 06:19]
+**** DONE Morning 
+     CLOSED: [2020-05-10 Sun 06:08]
+**** TODO Lunch
+**** TODO Night
+
+*** DONE <2020-05-11 Mon> Day 27                            :day:30:wakingup:
+    CLOSED: [2020-05-12 Tue 06:19]
+**** TODO Morning 
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-05-12 Tue 06:19]
+
+*** TODO <2020-05-12 Tue> Day 27                            :day:31:wakingup:
+**** DONE Morning 
+     CLOSED: [2020-05-12 Tue 06:32]
+**** TODO Lunch
+**** TODO Night
+

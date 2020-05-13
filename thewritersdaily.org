@@ -1,1 +1,69 @@
-* The writer's
+* The Writer's Daily
+
+** DONE Setup Email
+   CLOSED: [2020-05-11 Mon 18:19]
+
+** DONE Setup Podcast
+   CLOSED: [2020-05-11 Mon 18:19]
+
+** DONE Create Logo
+   CLOSED: [2020-05-11 Mon 19:17]
+
+** TODO Design a Banner (Still need to figure out dimensions)
+
+** TODO Figure out which services exist for podcasts
+*** DONE Castbox
+    CLOSED: [2020-05-11 Mon 20:29]
+*** Spotify 
+*** iTunes
+*** Google Play
+*** Stitcher
+*** TuneIn
+*** Google Podcasts
+
+
+*** DONE Setup Netlify/Cloudflare Domain
+    CLOSED: [2020-05-11 Mon 20:24]
+
+*** Figure out basic episode structure in Hugo
+
+*** Setup Socials
+
+**** DONE Setup Facebook
+     CLOSED: [2020-05-11 Mon 20:23]
+
+**** TODO Setup Twitter
+
+**** TODO Setup Castbox
+
+
+DIMENSIONS
+
+1500 pixels wide by 500
+
+
+RESOURCES
+
+http://teppeisensei.com/
+
+
+The homepage has everything. You scroll down and you see all the projects.
+
+Active 
+
+The Writer's Daily
+
+How to Kill a Chinaman
+
+NeverFap Deluxe 
+
+Archive
+
+Awful Christmas 
+
+
+
+
+
+
+

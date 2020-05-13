@@ -1,0 +1,9 @@
+* Juliusv6
+
+** DONE Create Repo
+   CLOSED: [2020-05-12 Tue 05:56]
+** DONE Setup Netlify
+   CLOSED: [2020-05-12 Tue 05:56]
+** DONE Get Project Information from juliusv4
+   CLOSED: [2020-05-12 Tue 06:03]
+** TODO Create Homepage
