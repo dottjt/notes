@@ -26,3 +26,89 @@
 *** <2020-05-11 Mon>
 **** TODO Setup accounts for The Writer's Daily 
 **** 
+
+
+* General
+** DONE Walk Leo in the morning.
+   CLOSED: [2020-05-25 Mon 06:30]
+** DONE Good morning everyone. Feeling really unwell from the weekend. Going to take the day off.
+   CLOSED: [2020-05-25 Mon 10:36]
+** Stretch.
+** DONE Deadlift workout.
+   CLOSED: [2020-05-25 Mon 14:21]
+** DONE Lunch.
+   CLOSED: [2020-05-25 Mon 14:54]
+** Write novel.
+** Play some vidya.
+
+
+* TWD
+** DONE Checkout if podcast publisehd at 7am.
+   CLOSED: [2020-05-25 Mon 10:37]
+** DONE Checkout if podcast was posted to Facebook and Twitter at 7:15am.
+   CLOSED: [2020-05-25 Mon 10:37]
+** DONE Validate Castbox RSS Feed for ITFF.
+   CLOSED: [2020-05-25 Mon 10:47]
+** DONE Submit podcast to Google Podcasts, iTunes, Spotify.
+   CLOSED: [2020-05-25 Mon 10:47]
+** DONE Write some content for the podcast. Monogamy. Dating. Programming. Journalism. High School. Podcasting. Standing Desk. Cold Showers. Bitcoin. Handwriting. Typewriters.
+   CLOSED: [2020-05-29 Fri 15:23]
+** DONE Setup Subreddit
+   CLOSED: [2020-05-25 Mon 10:54]
+
+** DONE Setup everything in Zapier.
+   CLOSED: [2020-05-25 Mon 17:12]
+** DONE Populate Website links .
+   CLOSED: [2020-05-25 Mon 14:54]
+** DONE Create The Writer's Daily post format. 
+   CLOSED: [2020-05-25 Mon 12:04]
+** DONE Manually post to social media, since it didn't do it automatically.
+   CLOSED: [2020-05-25 Mon 17:13]
+** DONE Setup email notifications for these email things. 
+   CLOSED: [2020-05-25 Mon 18:09]
+** DONE Automate actions in browser when uploading podcast episodes.
+   CLOSED: [2020-05-25 Mon 19:22]
+** DONE Turn data into a private package and upload it to npm.
+   CLOSED: [2020-05-28 Thu 15:37]
+** DONE Update Website links
+   CLOSED: [2020-05-28 Thu 15:37]
+** DONE Creat Tumblr
+   CLOSED: [2020-05-25 Mon 18:09]
+
+
+
+
+
+
+ (multiple Zapier accounts?)
+** DONE Figure out Discord 
+   CLOSED: [2020-05-25 Mon 19:20]
+** DONE Setup all the socials on the other accounts. 
+   CLOSED: [2020-05-28 Thu 15:36]
+** DONE Setup Instagram for business 
+   CLOSED: [2020-05-28 Thu 15:36]
+** DONE Figure out audiograms
+   CLOSED: [2020-05-28 Thu 15:36]
+** DONE Create new RSS namespace. 
+   CLOSED: [2020-05-29 Fri 16:50]
+
+** DONE Create video template for the video.
+   CLOSED: [2020-05-28 Thu 15:37]
+** DONE Figure out automated YouTube Uploads (seems very complicated)
+   CLOSED: [2020-05-28 Thu 15:37]
+** Definitively figure out what the text should be for the show. (160 characters) Follow a struggling writer as he explains all manner of pointless things, featuring whacking sound effects, ill-defined segments and a whole lotta love.   
+** Add tags to Integromat posts
+** Figure out Cross promotion strategy/content.
+** Create banner art for the podcast. 
+** Amend YouTube Description and tags to have MORE, like website link etc. 
+** Figure out YouTube tags. 
+** Setup instagram for business in Zapier
+** Script which converts a topic into the week files.
+** Random location and name generator.
+** Change podcast category to comedy, not arts.
+** Upload Youtube videos
+** Figure out cover art for the show. 
+
+
+
+

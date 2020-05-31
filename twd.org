@@ -1,0 +1,100 @@
+* Personal Projects
+
+** DONE How to Kill a Chinaman
+   CLOSED: [2020-05-17 Sun 12:36]
+*** DONE Setup repository                                       :eta:hours:4:
+    CLOSED: [2020-05-14 Thu 07:16]
+*** DONE Setup DNS, Netlify etc.                                :eta:hours:4:
+    CLOSED: [2020-05-14 Thu 06:54]
+*** DONE Create book cover                                      :eta:hours:4:
+    CLOSED: [2020-05-14 Thu 16:11]
+*** DONE Create website                                          :eta:days:2:
+    CLOSED: [2020-05-17 Sun 12:36]
+
+
+
+** TODO The Writer's Daily
+*** DONE Setup repository                                       :eta:hours:4:
+    CLOSED: [2020-05-14 Thu 06:48]
+*** DONE Setup DNS, Netlify etc.                                :eta:hours:4:
+    CLOSED: [2020-05-14 Thu 06:54]
+*** DONE Setup AirDroid                                         :eta:hours:1:
+    CLOSED: [2020-05-14 Thu 18:16]
+*** DONE Build Website, including rationale and information pages :eta:days:3:
+    CLOSED: [2020-05-17 Sun 12:36]
+
+*** DONE Make website mobile responsive
+    CLOSED: [2020-05-15 Fri 17:42]
+*** DONE Figure out how to organise content in website          :eta:hours:4:
+    CLOSED: [2020-05-17 Sun 18:38]
+*** DONE Figure out ideal podcast structure                     :eta:hours:4:
+    CLOSED: [2020-05-18 Mon 12:33]
+*** DONE Figure out a seamless upload/production process         :eta:days:1:
+    CLOSED: [2020-05-22 Fri 14:59]
+*** DONE Create 5 day's worth of content for the podcast         :eta:days:2:
+    CLOSED: [2020-05-22 Fri 14:59]
+
+Total: 7 Days Work Left :)
+
+*** TODO Upload to iTunes, Spotify, Google Play podcasts 
+*** TODO Setup Chartable. 
+*** DONE Update episodes to Castbox.
+*** DONE Record Segment intros. 
+    CLOSED: [2020-05-20 Wed 17:20]
+*** DONE Get Sound effects
+    CLOSED: [2020-05-20 Wed 17:20]
+*** DONE Figure out how to connect tascam to the computer to record on the computer, that way it can be done a lot simpler. (LINE OUT)
+    CLOSED: [2020-05-18 Mon 12:32]
+*** DONE Record content
+    CLOSED: [2020-05-23 Sat 11:28]
+*** DONE Finish episode generator in util so I can have those notes ready for the show!
+    CLOSED: [2020-05-23 Sat 11:28]
+*** DONE Generate xml from thewritersdaily
+    CLOSED: [2020-05-21 Thu 17:16]
+*** TODO Check XML once an episode has been created for The Writer's Daily.
+*** DONE Setup ITFFF with Facebook and Twitter, gathering data from RSS Feed.
+    CLOSED: [2020-05-22 Fri 14:02]
+*** TODO Test ITFFF Setup
+*** DONE Configure outro in the Jingle
+    CLOSED: [2020-05-22 Fri 14:59]j 
+
+
+** DONE Julius Reade V6
+   CLOSED: [2020-05-23 Sat 11:55]
+*** DONE Setup repository
+    CLOSED: [2020-05-14 Thu 06:49]
+*** DONE Finish Creating Data
+    CLOSED: [2020-05-14 Thu 07:18]
+*** DONE Build Website                                           :eta:days:5:
+    CLOSED: [2020-05-16 Sat 10:56]
+*** DONE Setup Meta
+    CLOSED: [2020-05-16 Sat 11:45]
+*** DONE Figure out how to get all the subdomains working.  
+    CLOSED: [2020-05-16 Sat 10:56]
+*** DONE Optimise assets/performance
+    CLOSED: [2020-05-17 Sun 12:35]
+*** Fix up project data
+
+*** DONE Configure Google Search Console.
+    CLOSED: [2020-05-21 Thu 06:37]
+
+
+** DONE Recording Booth 
+   CLOSED: [2020-05-17 Sun 06:42]
+*** DONE Build Recording Booth                                   :eta:days:2:
+    CLOSED: [2020-05-14 Thu 06:57]
+*** DONE Add Stabiliser and drill Android Mount                 :eta:hours:2:
+    CLOSED: [2020-05-16 Sat 11:47]
+
+
+
+
+
+
+
+
+
+
+
+
+
