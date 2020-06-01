@@ -108,7 +108,8 @@
 ** Change podcast category to comedy, not arts.
 ** Upload Youtube videos
 ** Figure out cover art for the show. 
-
+** Change the podcast Logo to give me bigger eyes. 
+** Fix website for epnotes so that there's a HEAP of space at the bottom of the article.
 
 
 

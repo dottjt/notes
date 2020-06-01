@@ -145,10 +145,12 @@
 
 
 
-*** TODO <2020-05-31 Sun>                                   :day:50:wakingup:
+*** DONE <2020-05-31 Sun>                                   :day:50:wakingup:
+    CLOSED: [2020-05-31 Sun 20:58]
 **** TODO Morning 
 **** TODO Lunch
-**** TODO Night
+**** DONE Night
+     CLOSED: [2020-05-31 Sun 20:58]
 
 
 
