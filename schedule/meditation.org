@@ -144,13 +144,121 @@
 
 
 
-
 *** DONE <2020-05-31 Sun>                                   :day:50:wakingup:
     CLOSED: [2020-05-31 Sun 20:58]
 **** TODO Morning 
 **** TODO Lunch
 **** DONE Night
      CLOSED: [2020-05-31 Sun 20:58]
+
+
+
+
+
+
+
+*** DONE <2020-06-01 Mon>                                        :day:0:self:
+    CLOSED: [2020-06-04 Thu 20:52]
+**** DONE Morning 
+     CLOSED: [2020-06-04 Thu 20:52]
+**** TODO Lunch
+**** TODO Night
+
+
+
+
+
+
+*** DONE <2020-06-02 Tue>                                    :day:1:wakingup:
+    CLOSED: [2020-06-04 Thu 20:52]
+**** TODO Morning 
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-04 Thu 20:52]
+
+
+
+
+
+
+*** DONE <2020-06-03 Wed>                                    :day:2:wakingup:
+    CLOSED: [2020-06-04 Thu 20:52]
+**** DONE Morning 
+     CLOSED: [2020-06-04 Thu 20:52]
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-04 Thu 20:52]
+
+
+
+
+
+
+
+*** DONE <2020-06-04 Thu>                                    :day:3:wakingup:
+    CLOSED: [2020-06-04 Thu 20:52]
+**** DONE Morning 
+     CLOSED: [2020-06-05 Fri 20:52]
+**** DONE Lunch
+     CLOSED: [2020-06-04 Thu 20:52]
+**** DONE Night
+     CLOSED: [2020-06-04 Thu 20:52]
+
+
+
+
+
+*** DONE <2020-06-05 Fri>                                    :day:4:wakingup:
+    CLOSED: [2020-06-05 Fri 20:52]
+**** DONE Morning 
+     CLOSED: [2020-06-06 Sat 20:52]
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-05 Fri 20:52]
+
+
+
+
+*** DONE <2020-06-06 Sat>                                    :day:5:wakingup:
+    CLOSED: [2020-06-07 Sun 20:17]
+**** DONE Morning 
+     CLOSED: [2020-06-06 Sat 07:37]
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-07 Sun 20:17]
+
+
+
+
+
+
+
+*** DONE <2020-06-07 Sun>                                    :day:6:wakingup:
+    CLOSED: [2020-06-07 Sun 20:53]
+**** TODO Morning 
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-07 Sun 20:53]
+
+
+
+
+
+*** TODO <2020-06-08 Mon>                                    :day:7:wakingup:
+**** DONE Morning 
+     CLOSED: [2020-06-08 Mon 06:38]
+**** TODO Lunch
+**** TODO Night
+
+
+
+
+
+     
+*** TODO <2020-06-09 Tue>                                    :day:8:wakingup:
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
 
 
 
