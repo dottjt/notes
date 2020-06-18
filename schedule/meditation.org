@@ -338,11 +338,120 @@
 
 
 
-*** TODO <2020-06-15 Mon>                                   :day:14:wakingup:
-**** DONE Morning 
-     CLOSED: [2020-06-16 Tue 13:48]
+*** DONE <2020-06-15 Mon>                                   :day:14:wakingup:
+    CLOSED: [2020-06-18 Thu 20:54]
+**** TODO Morning 
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-18 Thu 20:54]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** DONE <2020-06-16 Tue>                                   :day:15:wakingup:
+    CLOSED: [2020-06-18 Thu 20:54]
+**** TODO Morning 
 **** TODO Lunch
 **** TODO Night
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** DONE <2020-06-17 Wed>                                   :day:16:wakingup:
+    CLOSED: [2020-06-18 Thu 20:54]
+**** DONE Morning 
+     CLOSED: [2020-06-18 Thu 13:48]
+**** TODO Lunch
+**** DONE Night
+     CLOSED: [2020-06-18 Thu 20:54]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** TODO <2020-06-18 Thu>                                   :day:17:wakingup:
+**** TODO Morning 
+**** TODO Lunch
+**** TODO Night
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*** TODO <2020-06-19 Fri>                                   :day:14:wakingup:
+**** DONE Morning 
+     CLOSED: [2020-06-20 Sat 13:48]
+**** TODO Lunch
+**** TODO Night
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
